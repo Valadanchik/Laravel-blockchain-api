@@ -175,7 +175,6 @@ class Blockchain
             $url = "$local_url/api/v2/create?".http_build_query($params);
             $json_data = file_get_contents($url);
             $json_feed = json_decode($json_data, true);
-            dd($json_feed);
             return $json_feed;
         } catch (\ErrorException $e) {
             throw new BlockchainException('Connection lost. Please try again');
