@@ -7,7 +7,7 @@ This is a laravel package for interacting with blockchain api
 
 ## Installation
 
-[PHP](https://php.net) 5.4+ or [HHVM](http://hhvm.com) 3.3+, and [Composer](https://getcomposer.org) are required.
+[PHP](https://php.net) 7+ or [HHVM](http://hhvm.com) 3.3+, and [Composer](https://getcomposer.org) are required.
 
 To get the latest version of blockchain api, simply run the code below in your project.
 
@@ -113,8 +113,6 @@ Please feel free to fork this package and contribute by submitting a pull reques
 ## How can I thank you?
 
 Why not star the github repo? I'd love the attention! Why not share the link for this repository on Twitter or HackerNews? Spread the word!
-
-Don't forget to [follow me on twitter](https://twitter.com/taiwomix)!
 
 Thanks!
 Famurewa Taiwo
