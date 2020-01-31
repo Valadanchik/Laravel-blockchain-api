@@ -159,14 +159,14 @@ class Blockchain
  	* @param string randomly generated password
  	* @throws Exceptions
  	*/
- 	public function createWallet($password) {
+ 	public function createWallet($password, $email = null) {
  		//generate password
         $wallet_pass = $password ;
  		//make api calls
         $params = array(
             'password' => $wallet_pass,
             'api_code' => $this->api_key,
-            'email' => 'sar.volodya+1@gmail.com',
+            'email' => $email,
             'label' => 'Main-receiving-Address',
         );
 
