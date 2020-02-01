@@ -1,5 +1,5 @@
 {
-    "name": "valadanchik/blockchain",
+    "name": "valadanchik/blockchain-old",
     "description": "This is a laravel 6 package for interacting with blockchain api",
     "keywords": ["php", "bitcoin", "blockchain", "cryptocurrency", "Laravel","open source","laravel 5"],
     "type": "library",
