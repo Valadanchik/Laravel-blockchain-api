@@ -5,7 +5,7 @@
     "type": "library",
 
     "require": {
-        "valadanchik/blockchain": "dev-master",
+        "valadanchik/blockchain-old": "dev-master",
         "php": "^7.2",
         "illuminate/support": "^5.5 || ^6.0",
         "symfony/css-selector": "^2.7 || ^3.0 || ^4.0"
